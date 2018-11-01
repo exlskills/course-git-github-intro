@@ -1,5 +1,4 @@
-### Ready Set Go
-#### We are here to help
+### We are here to help
 
 During the class, our instructors are always available to answer questions. Feel free to reach out to in any way as we are here to support you through this process.
 
