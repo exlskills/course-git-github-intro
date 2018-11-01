@@ -1,23 +1,14 @@
-### Git Basics
+### Giting Started with Command line
 
-It is impertinent that version control exists locally on your machine. This means that without internet connection, it is still possible to use Git to create checkpoints that you can come back to in the future.
+A few terminal commands we will want to remember:
+* `cd foldername` this moves you to the folder or file you specify through the terminal.
+* `cd ..` this moves you back to previous folder
+* `ls` Lists all items in that folder
+* `ls -a` Lists all items in a folder and hidden items
+* `:wq` Saves and exits terminal
 
-THIS IS ALL ON YOUR LOCAL MACHINE AND JUST SO THAT YOU CAN HAVE A FASTER, MORE ELEGANT WORKFLOW.
 
-### Example WORKFLOW
+### First Steps Setup
 
-* Initialize the repository on your local machine
-* Add files that have changed
-* Commit the changes made (creating a checkpoint)
-* Push the committed changes
-
-To easily set up just that workflow, open your terminal and enter the following commands:
-
-```
-git init
-git add 'Enter file names or folders that have changed'
-git commit -m 'enter a message reminder here'
-git push -u origin master
-```
-
-This process will allow you to keep track of the changes that you are making in your file folders. It is important to commit often as the more commits created = more ability to return to previous work.
+* `git config --global user.email "name@email.com"`
+* `git config --global user.name "FirstName LastName"`
