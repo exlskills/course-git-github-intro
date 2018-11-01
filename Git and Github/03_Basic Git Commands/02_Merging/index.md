@@ -1,9 +1,3 @@
-### Title Goes Here -- Make it different than the folder name
-#### Subtitle goes here
-Text goes here
- ```
- you can also add code using triple ticks
-```
- `or you can do inline code with single quotes` 
- #### here is another subtitle 
- and some text below it 
+### Merging with Github
+
+You can use Github to back up some of you work and share code over the network.
