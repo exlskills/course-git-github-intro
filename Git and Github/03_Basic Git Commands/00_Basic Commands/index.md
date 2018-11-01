@@ -17,6 +17,7 @@ To easily set up just that workflow, open your terminal and enter the following 
 git init
 git add 'Enter file names or folders that have changed'
 git commit -m 'enter a message reminder here'
+git push -u origin master
 ```
 
 This process will allow you to keep track of the changes that you are making in your file folders. It is important to commit often as the more commits created = more ability to return to previous work.
