@@ -1,8 +1,10 @@
 ### High level overview of Git (Version Control) and Github
 
-In this tutorial we will explore the basic understandings of the version control system `Git` and some basic commands to get started.  
+In this course we will explore the basic understandings of the version control system `Git` and some basic commands to get started collaborating with others using Github!  
 
-### 1. Version Control Basics
+### Outline
+
+#### 1. Version Control Basics
 
   1.1 What is Version Control?
 
@@ -12,7 +14,7 @@ In this tutorial we will explore the basic understandings of the version control
 
   1.4 Alternative Solutions
 
-### 2. Basic Git Commands   
+#### 2. Basic Git Commands   
 
   1.1 Basic Commands
 
@@ -22,7 +24,7 @@ In this tutorial we will explore the basic understandings of the version control
 
   1.4 Moving and Copying Files
 
-### 3. Example Workflow
+#### 3. Example Workflow
 
   1.1 Working with Others
 
