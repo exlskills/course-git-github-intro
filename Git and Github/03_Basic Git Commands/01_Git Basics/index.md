@@ -1,29 +1,28 @@
-### Moving On to Trees
 
-Now lets say that you want to jump onto a new part of your project, but do not want to mess up your in production  working code.
+### Git Basics
 
-In this case, you can create a branch that contains all the previous work as a template of sorts.
+It is impertinent that version control exists locally on your machine. This means that without internet connection, it is still possible to use Git to create checkpoints that you can come back to in the future.
 
-### Reasons for using branches
+THIS IS ALL ON YOUR LOCAL MACHINE AND JUST SO THAT YOU CAN HAVE A FASTER, MORE ELEGANT WORKFLOW.
 
-* Mess with your code base without worrying about creating errors in production version
-* Play with other open-source codebases without messing up the production version
-* Create a new checkpoint or template
-* Work on different parts of app in continuous fashion
 
-### Commands for branches
+### Example WORKFLOW
 
-```
-git branch 'name of branch'
-```
-This makes a new branch for you to work on.
+* Initialize the repository on your local machine
+* Add files that have changed
+* Commit the changes made (creating a checkpoint)
+* Push the committed changes
+
+To easily set up just that workflow, open your terminal and enter the following commands:
 
 ```
-git checkout 'branchname'
+git init
+git add 'Enter file names or folders that have changed'
+git commit -m 'enter a message reminder here'
+git push -u origin master
 ```
-Allows you to go an use a different branch (think switching between branches)
 
-```
-git merge 'name of branch you want to merge'
-```
-This merges two branches so that they become one again.
+This process will allow you to keep track of the changes that you are making in your file folders. It is important to commit often as the more commits created = more ability to return to previous work.
+
+### To see a status of any changes made
+* `git status`

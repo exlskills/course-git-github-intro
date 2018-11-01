@@ -1,9 +1,5 @@
-### Title Goes Here -- Make it different than the folder name
-#### Subtitle goes here
-Text goes here
- ```
- you can also add code using triple ticks
-```
- `or you can do inline code with single quotes` 
- #### here is another subtitle 
- and some text below it 
+### Other helpful tools for Git and Github
+
+* [Treehouse](https://teamtreehouse.com/library/introduction-to-git)
+* [Datacamp](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+* [LearnXinY](https://learnxinyminutes.com/docs/git/)

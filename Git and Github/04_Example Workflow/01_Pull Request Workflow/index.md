@@ -1,9 +1,13 @@
-### Title Goes Here -- Make it different than the folder name
-#### Subtitle goes here
-Text goes here
- ```
- you can also add code using triple ticks
+
+### Git Pull
+ Pulling repositories is used for when someone you are working with makes changes to the repo and allows you to update to their changes to be working on the same branch.
+
 ```
- `or you can do inline code with single quotes` 
- #### here is another subtitle 
- and some text below it 
+ git pull 'name of branch'
+```
+
+### Cloning a Repository
+* `git clone 'url of repository found in github'`
+* `git remote add origin 'github url'`
+* `git push -u origin master`
+* `git push origin 'branchname'`
