@@ -1,22 +1,29 @@
 # This is the *unique* ID of your course
-url_name: template_course
-display_name: My New Course
+url_name: intro_github
+display_name: Introduction to Github with EXL skills
 org: EXLskills
 # This is the *unique* ID of your course (again) because we're maintaining compatability with other course formats. If you intend to use this with OLX or another course host, then it can have another value.
-course: template_course
+course: intro_github
 course_image: https://s3-us-west-2.amazonaws.com/exlskills-course-logos/ap-java-course.jpg
 language: en
-est_minutes: 3600
-primary_topic: Java
-repo_url: https://github.com/exlskills/template-course
+est_minutes: 2500
+primary_topic: GitHub
+repo_url: https://github.com/exlskills/course-git-github-intro
 topics:
-  - Java
-  - Template
-headline: Your quick headline goes here!
-description: This is a slightly longer course description that will be shown to users on the course home page.
+  - Github
+  - Version Control
+headline: Get started with version control and Github!
+description: In this course we will be exploreing the concepts of version control and github, and the ways that you can integrate this into your next project!
 info_md: |2
-  This is your course's long-form markdown info text. This will be shown to users in the info tab of your course.
+  Learn about github with EXLskills!  Struggling to understand a concept? Book a time with our Live Instructors!
 
-  The '2' above is to tell the YAML parser that everything that's indented by at least two characters below is part of this multi-line text.
+  The syllabus for this course is as follows:
 
-  To 'break out' of this info markdown, just add a property without indentation and you'll be dropped back into the primary YAML
+  - Introduction
+  - Version Control Basics
+  - Basic Command Line with Github Integration
+  - Example Workflow
+  - Final Exam
+
+  After completing this workshop, you will have a basic understanding of Github and how to use it directly with your next large scale project!
+  Reach out to our live instructors for direct help in learning more about version control and Github!
