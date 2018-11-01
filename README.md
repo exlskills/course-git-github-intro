@@ -1,20 +1,15 @@
-# EXLskills Free & Open-source Courseware Template
+## Course Information
 
-This is the EXLskills free and open-source template. It includes a checklist, license, readme, and an index.yaml file to help you get started with creating an EXLskills-compatible course!
+This course is specifically designed as an introduction to github and version control.  The syllabus for this course is as follows:
 
-## New Course Checklist
+- Introduction
+- Version Control Basics
+- Basic Command Line with Github Integration
+- Example Workflow
+- Final Exam
 
-- [ ] Update license parameters, specifically, add examples of what "source code" is in your course
+After completing this workshop, you will have a basic understanding of Github and how to use it directly with your next large scale project!  Reach out to our live instructors for direct help in learning more about version control and Github
 
-- [ ] Create the course structure using EOCS (these are your chapters, sequentials, and verticals)
-
-- [ ] Add your first piece of content to the course layout
-
-- [ ] Run `eocsutil verify` periodically to check that your course adheres to the EOCS format
-
-- [ ] Create an issue [here](https://github.com/exlskills/exlskills/issues/new?labels=new-course) to notify EXLskills of your intent to publish this course. After a brief review and validation, you should be ready to publish your EXLskills course. EXLskills team will add the course repo to the course pipeline and you should have your work on the master branch validated, converted, and published with each new commit.
-
-- [ ] Congratulations, you published this course and can now drop this checklist from your README.md file :)
 
 ## About EXLskills
 
