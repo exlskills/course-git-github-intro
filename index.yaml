@@ -7,7 +7,7 @@ course: intro_github
 course_image: https://s3-us-west-2.amazonaws.com/exlskills-course-logos/ap-java-course.jpg
 language: en
 est_minutes: 2500
-primary_topic: GitHub
+primary_topic: dev-ops
 repo_url: https://github.com/exlskills/course-git-github-intro
 topics:
   - Github
