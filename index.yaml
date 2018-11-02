@@ -1,6 +1,7 @@
 # This is the *unique* ID of your course
 url_name: intro_github
-display_name: Introduction to Github with EXL skills
+weight: 1000
+display_name: Learn Essential Git for GitHub with EXLskills
 org: EXLskills
 # This is the *unique* ID of your course (again) because we're maintaining compatability with other course formats. If you intend to use this with OLX or another course host, then it can have another value.
 course: intro_github
