@@ -5,7 +5,7 @@ A few terminal commands we will want to remember:
 * `cd ..` this moves you back to previous folder
 * `ls` Lists all items in that folder
 * `ls -a` Lists all items in a folder and hidden items
-* `:wq` Saves and exits terminal
+* `:wq` When in **vim** or doing a merge request, this well write and save your changes
 
 
 ### First Steps Setup
