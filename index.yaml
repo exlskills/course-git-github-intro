@@ -8,11 +8,14 @@ course: intro_github
 course_image: https://s3-us-west-2.amazonaws.com/exlskills-course-logos/ap-java-course.jpg
 language: en
 est_minutes: 2500
-primary_topic: dev-ops
+primary_topic: git
 repo_url: https://github.com/exlskills/course-git-github-intro
 topics:
   - Github
   - Version Control
+  - Git
+  - VCS
+  - Dev Ops
 headline: Get started with version control and Github!
 description: In this course we will be exploreing the concepts of version control and github, and the ways that you can integrate this into your next project!
 info_md: |2
